@@ -1,23 +1,13 @@
 ### Hi, I'm Rodrigo 👋
 
-##About Me
+### About Me
+
+- I'm from Santa Catarina, Brazil
+- I'm a Software Engineering Student at Faculdade Católica de Santa Catarina.
+
+## ✉ Contact info
+
+[![Gmail Badge](https://img.shields.io/badge/-rodrigo.coninck@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigo.coninck@hotmail.com)](mailto:rodrigo.coninck@hotmail.com)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoconinck&theme=light" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=rodrigoconinck&show_icons=true&theme=ADD_THEME_HERE" width="400">
-
-
-<!--
-**RodrigoConinck/RodrigoConinck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
