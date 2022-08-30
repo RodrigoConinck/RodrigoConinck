@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Rodrigo 👋
+
+##About Me
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoconinck&theme=light" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=rodrigoconinck&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
